@@ -1,3 +1,3 @@
-### Comune di Verona - Direzione Mobilita e Traffico
+### City of Verona - Mobility Department
 
-Repository dedicato a progetti e sviluppi in ambito C-ITS
+Repository for public projects about C-ITS
